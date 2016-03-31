@@ -1,0 +1,22 @@
+{
+  "name": "overscrolled",
+  "version": "0.0.0",
+  "homepage": "https://github.com/garryyao/overscrolled",
+  "authors": [
+    "Garry Yao <yaojun85@gmail.com>"
+  ],
+  "description": "help you to escape from some browser's built-in \\\"pull-to-refresh\\\" feature or any other fancy behaviour when page is overscrolled",
+  "main": "dist/overscrolled.js",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "test",
+    "examples"
+  ]
+}
