@@ -1,6 +1,6 @@
 {
   "name": "overscrolled",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "help you to escape from some browser's built-in \"pull-to-refresh\" feature or any other fancy behaviour when page is overscrolled",
   "main": "dist/overscrolled.js",
   "scripts": {
