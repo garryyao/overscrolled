@@ -6,7 +6,9 @@
 > Description
 
 Help you to escape from e.g. Chrome's built-in "pull-to-refresh" feature an potentially any other fancy features provided by browser's 
-when page is over-scrolled at the top, where in certain scenario you simply don't want the page to be disturbed by those.   
+when page is over-scrolled at the top, where in certain scenario you simply don't want the page to be disturbed by those.
+   
+Google Chrome [reference](https://docs.google.com/document/d/12Ay4s3NWake8Qd6xQeGiYimGJ_gCe0UMDZKwP9Ni4m8/) for how this works.
 
 ## Installation
 
